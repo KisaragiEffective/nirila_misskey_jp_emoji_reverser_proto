@@ -1,0 +1,11 @@
+[package]
+name = "nirila_misskey_jp_emoji_reverser_proto"
+description = "にりらみすきー部のひらがな絵文字をひらがなに直すためのツールのプロトタイプ"
+version = "0.1.0"
+edition = "2021"
+authors = ["Kisaragi Marine <kisaragi.effective@gmail.com>"]
+license = ["CC0-1.0"]
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
